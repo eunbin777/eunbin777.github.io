@@ -1,0 +1,17 @@
+---
+layout: post
+title: "[2022 하계 모각코] 03주차(7/25)"
+subtitle: ""
+date: 2022-07-25 14:00:41 +0900
+background: '/img/posts/fabio-oyXis2kALVg-unsplash.jpg'
+---
+
+
+<h2 class="section-heading">목표 : 데이터 분석 기초 - 데이터 분석 맛보기 </h2>
+
+<p>직접 코드를 짜보면서 노션으로 내용을 정리할 것</p>
+
+[03주차 정리 내용](https://telling-brush-7e7.notion.site/with-python-d526249ea5e547d9ae5fd930d247e31b)
+
+<h5>회고록</h5>
+<p></p>

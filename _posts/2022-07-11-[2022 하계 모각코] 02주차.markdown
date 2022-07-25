@@ -2,7 +2,7 @@
 layout: post
 title: "[2022 하계 모각코] 02주차(7/11)"
 subtitle: ""
-date: 2022-07-11 14:-2:41 +0900
+date: 2022-07-11 14:02:41 +0900
 background: '/img/posts/fabio-oyXis2kALVg-unsplash.jpg'
 ---
 
