@@ -2,7 +2,7 @@
 layout: post
 title: "[2022 하계 모각코] 03주차(7/25)"
 subtitle: ""
-date: 2022-07-25 14:00:41 +0900
+date: 2022-07-25 16:52:41 +0900
 background: '/img/posts/fabio-oyXis2kALVg-unsplash.jpg'
 ---
 
@@ -11,7 +11,7 @@ background: '/img/posts/fabio-oyXis2kALVg-unsplash.jpg'
 
 <p>직접 코드를 짜보면서 노션으로 내용을 정리할 것</p>
 
-[03주차 정리 내용](https://telling-brush-7e7.notion.site/with-python-d526249ea5e547d9ae5fd930d247e31b)
+[03주차 정리 내용](https://telling-brush-7e7.notion.site/03-731dc594cfe0436c8b49f3775fb423dd)
 
 <h5>회고록</h5>
-<p></p>
+<p>1~2주차로 계획했던 내용들이 생각보다 많아서 3주차가 되어서야 완료할 수 있었다. 지난 수업에 빌보드를 크롤링하다가 생긴 문제는 아직 해결하지 못하였으나 여러 사이트들을 비슷한 방식으로 크롤링함으로써 이를 어설프게나마 코딩할 수 있게 되었다. 데이터 분석 맛보기였던만큼 두번째 실습은 데이터 전처리와 데이터 시각화까지 간단하게 구현하는데 지난 학기에 들었던 영상처리에서 사용하던 matplotlib를 사용하는 실습이어서 집중도 있게 이번 주차 내용을 완료했던 것 같다. 이 책이 전문적인 분석을 진행하는 것 같지는 않지만 실무적인 부분으로 접근해서 공부하는 것 같아서 다음 내용도 기대된다.</p>
