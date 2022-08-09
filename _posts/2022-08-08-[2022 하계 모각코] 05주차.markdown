@@ -9,7 +9,7 @@ background: '/img/posts/fabio-oyXis2kALVg-unsplash.jpg'
 
 <h2 class="section-heading">목표 : 데이터 분석 실무1 - 코로나 바이러스 영향으로 관광객이 얼마나 줄었나) 데이터 전처리 완료 및 데이터 시각화</h2>
 
-<p>직접 코드를 짜보면서 노션으로 내용을 정리하고 github에 주피터 노트북 파일 정리해서 올리기/p>
+<p>직접 코드를 짜보면서 노션으로 내용을 정리하고 github에 주피터 노트북 파일 정리해서 올리기</p>
 
 [05주차 정리 내용](https://telling-brush-7e7.notion.site/05-8762ed5be57043ae9a4db2301fdf0303)
 [05주차 실습](https://github.com/eunbin777/DataAnalysisBasic/blob/main/2022%20%ED%95%98%EA%B3%84%20%EB%AA%A8%EA%B0%81%EC%BD%94/week4-3.ipynb)
