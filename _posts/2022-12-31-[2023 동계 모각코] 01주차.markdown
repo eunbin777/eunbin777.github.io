@@ -1,0 +1,19 @@
+---
+layout: post
+title: "[2023 동계 모각코] 01주차(12/31)"
+subtitle: ""
+date: 2022-12-31 20:09:32 +0900
+background: "/img/posts/fabio-oyXis2kALVg-unsplash.jpg"
+---
+
+<h2 class="section-heading">목표 : 딥러닝/인공지능의 이해 </h2>
+<p></p>
+
+<p>강의를 들으면서 노션으로 내용을 정리한 것을 아래에서 확인할 수 있습니당</p>
+
+[01주차 정리 내용](https://telling-brush-7e7.notion.site/741300ccba4341a49c2168512eeca491)
+
+<p></p>
+
+<h5>📓 회고록</h5>
+<p></p>
