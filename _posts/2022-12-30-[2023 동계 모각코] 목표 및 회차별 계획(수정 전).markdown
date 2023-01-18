@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2023 동계 모각코] 목표 및 회차별 계획"
+title: "[2023 동계 모각코] 목표 및 회차별 계획(수정 전)"
 subtitle: ""
 date: 2022-12-30 23:07:20 +0900
 background: "/img/posts/fabio-oyXis2kALVg-unsplash.jpg"
