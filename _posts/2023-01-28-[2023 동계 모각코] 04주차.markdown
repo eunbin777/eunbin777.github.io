@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[2023 동계 모각코] 04주차(01/23)"
+title: "[2023 동계 모각코] 04주차(01/28)"
 subtitle: ""
-date: 2023-01-23 23:50:32 +0900
+date: 2023-01-28 23:50:32 +0900
 background: "/img/posts/fabio-oyXis2kALVg-unsplash.jpg"
 ---
 
