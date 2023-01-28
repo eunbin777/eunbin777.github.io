@@ -2,7 +2,7 @@
 layout: post
 title: "[2023 동계 모각코] 04주차(01/23)"
 subtitle: ""
-date: 2023-01-23 20:12:32 +0900
+date: 2023-01-23 23:50:32 +0900
 background: "/img/posts/fabio-oyXis2kALVg-unsplash.jpg"
 ---
 
@@ -11,9 +11,9 @@ background: "/img/posts/fabio-oyXis2kALVg-unsplash.jpg"
 
 <p>강의를 들으면서 노션으로 내용을 정리한 것을 아래에서 확인할 수 있습니당! 이번 필기 내용은 lgaimers의 강의를 듣고 작성한 내용입니다.</p>
 
-[04주차 정리 내용]()
+[04주차 정리 내용](https://telling-brush-7e7.notion.site/f346f673b135486bbd26357566bb2ff5)
 
 <p></p>
 
 <h5>📓 회고록</h5>
-<p></p>
+<p>lg aimers 강의를 한번 들었던 상태여서 다시 한번 강의를 들으면서 내용을 필기하는데 집중했다. 딥러닝 파트 중에서는 특히 RNN과 transformer를 중요한 부분으로 생각해서 딥러닝의 기본적인 구조와 동작과정을 학습한 후 바로 해당 내용으로 넘어왔다. CNN부분은 학교에서 많이 배워서 좀 익숙한데 RNN파트는 학습 과정을 아주 자세하게 배우지는 않아서 더 집중적으로 필기하면서 공부했던 것 같다. 해당 강의를 들을 수 있는 기한이 한정적이라서 필기로 남겨둘 수 있어서 너무 다행이다🙂</p>
