@@ -16,10 +16,8 @@ background: "/img/posts/fabio-oyXis2kALVg-unsplash.jpg"
 <p>해당 대회는 LG Aimers 교육생만 참여하는데 온라인 해커톤에서 30위 안에 들면 오프라인 해커톤에 참여할 수 있다고 해서 잘 하고 싶다!!!</p>
 
 <p>데이터 분석을 하기 전에 BaseLine코드를 한번 돌려서 올려보고 RandomForestClassifier보다 더 좋은 성능을 내기 위해서 Ensemble을 사용해서 코드를 돌렸더니 생각보다 좋은 결과가 나왔다!</p>
+![리더보드 상황](https://user-images.githubusercontent.com/103042314/216765353-3e8f9627-a3d8-49db-b699-3db244e30ea8.JPG)
 
-![리더보드상황](./img/posts/LGAIHackthonfig1.PNG)
-
-<img src="./img/posts/LGAIHackthon fig1.PNG">
 <p>현재 리더보드 상황이다. 이제 데이터를 분석해서 팀원들과 얘기를 나누어보고 데이터를 전처리해서 모델을 튜닝해나가는 방식으로 진행해야겠다.</p>
 
 <h5>📓 회고록</h5>
